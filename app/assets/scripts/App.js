@@ -1,1 +1,1 @@
-alert("Webpack is now watching App.js to auto generate bundles.js")
+import '../styles/styles.css'
